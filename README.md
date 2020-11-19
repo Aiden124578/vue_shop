@@ -47,30 +47,30 @@ created(){
   - 注册组件
   - 使用组件,放到vue的实例中使用
 
-![image-20200811174803873](images/image-20200811174803873.png)
+![image-20200811174803873.png](https://i.loli.net/2020/11/19/9YJH3xet4K2gPIT.png)
 
 - 局部组件，在vue中注册组件，只能id为app的使用
 
-![image-20200812100602428](images/image-20200812100602428.png)
+![image-20200812100602428.png](https://i.loli.net/2020/11/19/HMCnGdkZg1PvSUB.png)
 
 - vue实例为根组件
 
 - 父组件，第二个组件构造器
 - 子组件，第一个组件构造器，在父组件中注册，只能在父组件中使用
 
-![image-20200812101110648](images/image-20200812101110648.png)
+![image-20200812101110648.png](https://i.loli.net/2020/11/19/RDj7iOzy9F2QbBw.png)
 
-![image-20200812101502217](images/image-20200812101502217.png)
+![image-20200812101502217.png](https://i.loli.net/2020/11/19/dqKy5hvUMrDlAOt.png)
 
-![image-20200812101124068](images/image-20200812101124068.png)
+![image-20200812101124068.png](https://i.loli.net/2020/11/19/te4i697pnzauWq8.png)
 
 - 全局组件注册的语法糖
 
-![image-20200812102101114](images/image-20200812102101114.png)
+![image-20200812102101114.png](https://i.loli.net/2020/11/19/rM4gcFsfhUoDAYd.png)
 
 - 局部组件的语法糖
 
-![image-20200812102226248](images/image-20200812102226248.png)
+![image-20200812102226248.png](https://i.loli.net/2020/11/19/3pIon9ZhEJKWBLk.png)
 
 
 
@@ -82,11 +82,11 @@ created(){
 
 ![](images/image-20200812103222817.png)
 
-![image-20200812102843464](images/image-20200812102843464.png)
+![image-20200812102843464.png](https://i.loli.net/2020/11/19/B9bem6wloX73z5n.png)
 
 第二种：template标签，id来获取
 
-![image-20200812103103491](images/image-20200812103103491.png)
+![image-20200812103103491.png](https://i.loli.net/2020/11/19/Et1nB2JwvlRqrGp.png)
 
 
 
