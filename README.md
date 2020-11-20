@@ -189,17 +189,17 @@ created(){
 - number1，number2接收父组件num1，num2数据
 - 方法一
 
-![image-20200812170419840](images/image-20200812170419840.png)
+![image-20200812170419840.png](https://i.loli.net/2020/11/20/QTSshDtjobercZp.png)
 
-![image-20200812170437715](images/image-20200812170437715.png)
+![image-20200812170437715.png](https://i.loli.net/2020/11/20/JkNX8aEMjVnzqxy.png)
 
-![](images/image-20200812170513362.png)
+![image-20200812170513362.png](https://i.loli.net/2020/11/20/9zMOIP36kYiNVnb.png)
 
 - 方法二：v-model结合watch
 
-![image-20200812172857131](images/image-20200812172857131.png)
+![image-20200812172857131.png](https://i.loli.net/2020/11/20/bUEWo8DJxgBjS7M.png)
 
-![image-20200812172930616](images/image-20200812172930616.png)
+![image-20200812172930616.png](https://i.loli.net/2020/11/20/fm2JHOv3yzaD8wB.png)
 
 
 
@@ -207,7 +207,7 @@ created(){
 
 $children/$ref
 
-![image-20200812173251358](images/image-20200812173251358.png)
+![image-20200812173251358.png](https://i.loli.net/2020/11/20/OlTskVe6gb374jo.png)
 
 - $children来访问子组件的属性和方法
 
