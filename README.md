@@ -80,7 +80,7 @@ created(){
 
 - 第一个种：script标签，类型必须是text/x-template，通过id来获取
 
-![](images/image-20200812103222817.png)
+![image-20200812103222817.png](https://i.loli.net/2020/11/20/akW74d1KQeXF5bm.png)
 
 ![image-20200812102843464.png](https://i.loli.net/2020/11/19/B9bem6wloX73z5n.png)
 
@@ -96,7 +96,7 @@ created(){
 - 使用时必须放在一个div里面使用
 - data必须是函数的原因，每次返回的都是不同的对象，即使相同也不会相互影响,每一个组件实例都有自己的一个对象，用于保存自己的数据，保持自己的状态
 
-![image-20200812104024270](images/image-20200812104024270.png)
+![image-20200812104024270.png](https://i.loli.net/2020/11/20/hg9uYL5m7y38x1V.png)
 
 
 
@@ -106,13 +106,13 @@ created(){
 - v-bind接收数据
 - 注意：模板都不能写驼峰，props的驼峰标，v-bind不支持驼峰标识，v-on也是，全部小写，如果有驼峰的地方用-表示，后面接小写，cInfo->c-info
 
-![](images/image-20200812114118501.png)
+![image-20200812114118501.png](https://i.loli.net/2020/11/20/crY7VSI8LXu6Gw5.png)
 
 - 通过数组传递
 
-![image-20200812140525793](images/image-20200812140525793.png)
+![image-20200812140525793.png](https://i.loli.net/2020/11/20/rDkw71VMt8hTbBx.png)
 
-![](images/image-20200812140447449.png)
+![image-20200812140447449.png](https://i.loli.net/2020/11/20/Pr3SZoJQE6vXx5s.png)
 
 - 通过对象传递
 
@@ -120,7 +120,7 @@ created(){
   - default默认值
   - required必须传
 
-  ![](images/image-20200812142254460.png)
+![image-20200812142254460.png](https://i.loli.net/2020/11/20/CkBvFwVX4fe19SY.png)
 
 
 
