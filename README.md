@@ -34,7 +34,7 @@ created(){
 
 ## Vue组件化思想
 
-![image-20200811173657426](images/image-20200811173657426.png)
+![image-20200811173657426.png](https://i.loli.net/2020/11/20/u761LaJkl8RMXNq.png)
 
 
 
